@@ -1,0 +1,3 @@
+#pragma once
+
+#define SDL_INIT_FLAGS      SDL_INIT_VIDEO | SDL_INIT_EVENTS | SDL_INIT_TIMER
